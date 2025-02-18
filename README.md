@@ -14,3 +14,8 @@ SpringJavaMelody is a project that integrates JavaMelody with a Spring Boot appl
 
 - Java 23
 - Maven
+
+When you run the application locally, you can access the JavaMelody dashboard by navigating to `http://localhost:8080/monitoring`.
+
+Example of the JavaMelody dashboard:
+![monitoring.png](monitoring.png)
